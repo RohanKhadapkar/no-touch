@@ -1,0 +1,3 @@
+[MASTER]
+init-hook="from pylint.config import find_default_config_files; import os, sys; sys.path.append(os.path.dirname(next(find_default_config_files())))"
+disable=C0114

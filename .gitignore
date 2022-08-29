@@ -131,3 +131,10 @@ dmypy.json
 # Poetry
 pyproject.toml
 poetry.lock
+
+# Visual Studio Code
+.vscode
+
+# Misc
+*.pptx
+*.docx
